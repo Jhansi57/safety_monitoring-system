@@ -1,0 +1,34 @@
+Dependencies for Project 'ARM_Project2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\keil\delay.c)(0x6ADCEA25)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\delay.o --omf_browse .\arm_p2\delay.crf --depend .\arm_p2\delay.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 526"--list .\listings\startup.lst --xref -o .\arm_p2\startup.o --depend .\arm_p2\startup.d)
+F (.\ARM_P2\ADC_init.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\adc_init.o --omf_browse .\arm_p2\adc_init.crf --depend .\arm_p2\adc_init.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\envi_main.c)(0x6ADE3064)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\envi_main.o --omf_browse .\arm_p2\envi_main.crf --depend .\arm_p2\envi_main.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\gpio_init.c)(0x6ADE2EF1)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\gpio_init.o --omf_browse .\arm_p2\gpio_init.crf --depend .\arm_p2\gpio_init.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\lcd_driver.c)(0x6ADE2FAA)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\lcd_driver.o --omf_browse .\arm_p2\lcd_driver.crf --depend .\arm_p2\lcd_driver.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\ldr_read.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\ldr_read.o --omf_browse .\arm_p2\ldr_read.crf --depend .\arm_p2\ldr_read.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\led_init.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\led_init.o --omf_browse .\arm_p2\led_init.crf --depend .\arm_p2\led_init.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\soil_read.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\soil_read.o --omf_browse .\arm_p2\soil_read.crf --depend .\arm_p2\soil_read.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\temp_read.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\temp_read.o --omf_browse .\arm_p2\temp_read.crf --depend .\arm_p2\temp_read.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\uart0_init.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\uart0_init.o --omf_browse .\arm_p2\uart0_init.crf --depend .\arm_p2\uart0_init.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
+F (.\ARM_P2\water_read.c)(0x6ADCF635)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\arm_p2\water_read.o --omf_browse .\arm_p2\water_read.crf --depend .\arm_p2\water_read.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc21xx.h)(0x559CFE30)
+I (ARM_P2\header.h)(0x6ADCF635)
